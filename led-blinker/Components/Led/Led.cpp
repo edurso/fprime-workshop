@@ -75,7 +75,7 @@ namespace Components
 		}
 
 		// Provide command response
-		this->cmdResponse_out(opCode,cmdSeq,cmdResp);
+		this->cmdResponse_out(opCode, cmdSeq, cmdResp);
 	}
 
 	// ----------------------------------------------------------------------
